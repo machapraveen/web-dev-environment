@@ -207,7 +207,7 @@ export default function WebDevLearningPlatform() {
               <ul className="list-disc pl-5">
                 <li>Django (Python): Ideal for database-driven applications, with a robust ORM.</li>
                 <li>Express.js (Node.js): Perfect for JavaScript developers, used in popular applications like MySpace and Uber.</li>
-                <li>Flask (Python): Allows for very customized projects, runs on a web server rather than a user's browser.</li>
+                <li>Flask (Python): Allows for very customized projects, runs on a web server rather than a users browser.</li>
               </ul>
             </CardContent>
           </Card>
